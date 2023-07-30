@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "525009914094",
+    "firebase_url": "https://application1-45a75-default-rtdb.firebaseio.com",
+    "project_id": "application1-45a75",
+    "storage_bucket": "application1-45a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525009914094:android:af1622cbdb02fc174a0bff",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525009914094-ebgmein0qv43699sc64nr2qmr5ad898r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyXaaO-gdjIb3YnNiFG7RUJQbHoiF82A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525009914094-ebgmein0qv43699sc64nr2qmr5ad898r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525009914094:android:7a2c3b973eb305ee4a0bff",
+        "android_client_info": {
+          "package_name": "com.example.myformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525009914094-ebgmein0qv43699sc64nr2qmr5ad898r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyXaaO-gdjIb3YnNiFG7RUJQbHoiF82A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525009914094-ebgmein0qv43699sc64nr2qmr5ad898r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
